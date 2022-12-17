@@ -35,7 +35,7 @@ function Footer({
         moonColor={"white"}
         sunColor={"black"}
       />
-        <a href='https://www.github.com/krsambhav' target={'_blank'}>
+        <a href='https://github.com/Akashkunwar/akashkunwar.me' target={'_blank'}>
       <div className="footer font-extralight flex flex-row items-center gap-1 mb-10 select-none">
         <div className="text">made with</div> <IoIosHeartEmpty />
         in
